@@ -1,10 +1,8 @@
 # HelloWorld! 👋, I'm Inah!🤗
-#### I am junior back-end developer who love development💗
+### I am junior back-end developer who love development💗
 I like to communicate and collaborate with my team.<br/>
 I hope the work I do bring good to the world ☘️ <br/>
 I believe there will be some positive changes in my development.
-
----
 
 
 ### Main Stack and Tools
@@ -15,10 +13,9 @@ I believe there will be some positive changes in my development.
 <img src='https://user-images.githubusercontent.com/52025291/112719779-fc15db80-8f3d-11eb-951f-a17395320a1d.png' alt='html_icon' height=40>&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719916-cde4cb80-8f3e-11eb-8c5c-83660897709e.png' alt='css_icon' height=40>
 
 ### Contact
-[<img src='https://user-images.githubusercontent.com/52025291/112719725-ae996e80-8f3d-11eb-8899-13fd3cd1718c.jpeg' alt='blog' height='30'>](https://velog.io/@inah-_-)&nbsp;&nbsp;&nbsp;[<img src='https://user-images.githubusercontent.com/52025291/112719812-30899780-8f3e-11eb-9df8-780501753dcc.png' alt='gmail' height=30>](hyejooworld@gmail.com)
+[<img src='https://user-images.githubusercontent.com/52025291/112719725-ae996e80-8f3d-11eb-8899-13fd3cd1718c.jpeg' alt='blog' height='30'>](https://velog.io/@inah-_-)&nbsp;&nbsp;&nbsp;[<img src='https://user-images.githubusercontent.com/52025291/112719812-30899780-8f3e-11eb-9df8-780501753dcc.png' alt='gmail' height=30>](mailto:hyejooworld@gmail.com)
 
-
-
+### Git Highlight
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20' height='20'></a> 
 
 
