@@ -1,9 +1,7 @@
 # HelloWorld! 👋, I'm Inah!🤗
-### I am junior back-end developer who love development💗
-I like to communicate and collaborate with my team.<br/>
-I hope the work I do bring good to the world ☘️ <br/>
-I believe there will be some positive changes in my development.
-
+### I am junior back-end developer who love developmentiuyh💗
+I believe in the strength of communication and collaboration <br/>
+hope the work I do bring good to the world☘️
 
 ### Main Stack and Tools
 <img src='https://user-images.githubusercontent.com/52025291/112718969-a63f3480-8f39-11eb-9c63-c63cdcacaee6.png' alt='python' height=35>&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719059-0cc45280-8f3a-11eb-8efe-f41b841d8ba8.png' alt='django' height=35>&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719128-878d6d80-8f3a-11eb-8d7f-e4413df16c2a.png' alt='mysql' height=35>&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719321-bfe17b80-8f3b-11eb-864a-5834ce327679.png' alt='git' height=35>&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719336-d4be0f00-8f3b-11eb-83bf-f200646a1c14.png' alt='github' height=35>&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/52025291/112719448-675eae00-8f3c-11eb-934f-d04aa9c0ffb4.png' alt='vscode' height=35>
