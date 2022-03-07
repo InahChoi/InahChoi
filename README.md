@@ -1,5 +1,5 @@
 # HelloWorld! 👋, I'm Inah!🤗
-### I am junior back-end developer who love development💗
+### I am junior back-end developer who love development�
 I believe in the strength of communication and collaboration <br/>
 hope the work I do bring good to the world☘️
 
