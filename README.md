@@ -24,4 +24,8 @@ hope the work I do bring good to the world☘️
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InahChoi&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InahChoi)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<!-- <p align="center">
+  <a href="https://github.com/InahChoi">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InahChoi&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+  </a>
+</p> -->
