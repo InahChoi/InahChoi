@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=InAhChoi🇰🇷&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=InAhChoi🇰🇷&fontSize=40&animation=twinkling)
 
 <h3 align="center"> Hi There, </h3>
 <p align="center"> I am junior back-end developer who love development <br/>
 I believe in the strength of communication and collaboration <br/>
-hope the work I do bring good to the world </p>
+hope the work I do bring good to the world 🍀</p>
 <br/>
 
 <h3 align="center">Tech Stack 🛠</h3>
@@ -36,10 +36,13 @@ hope the work I do bring good to the world </p>
 <h3 align="center">Git Highlight ✨</h3>
 <p align="center"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20' height='20'></a>
 </p>
-<br/><br/>
+<br/>
 
-## Github Stats
+<h3 align="center">Github Stats 📊</h3>
+<div align="center" style="text-align:center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InahChoi&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InahChoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInahChoi&count_bg=%23DEDEDE&title_bg=%231A92DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+</div>
