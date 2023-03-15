@@ -13,7 +13,6 @@ hope the work I do bring good to the world 🍀</p>
   <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>&nbsp
 </p>
 
 <br/>
