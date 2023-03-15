@@ -31,7 +31,7 @@ hope the work I do bring good to the world 🍀</p>
   <a href="mailto:hyejooworld@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hyejooworld@gmail.com"/></a>&nbsp
   <a href="mailto:choiinah@kakao.com"><img src="https://img.shields.io/badge/KaKaoMail-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=choiinah@kakao.com"/></a>&nbsp
 </p>
-<br/><br/>
+<br/>
 
 <h3 align="center">Git Highlight ✨</h3>
 <p align="center"><a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20' height='20'></a>
