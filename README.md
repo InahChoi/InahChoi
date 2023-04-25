@@ -19,10 +19,21 @@ hope the work I do bring good to the world 🍀</p>
 
 <h3 align="center">🗂️ Database Tech Stack 🗂️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Sequelize-A8B9CC?style=flat&logo=Sequelize&logoColor=white"/></a>&nbsp 
+</p>
+
+<br/>
+
+<h3 align="center">☁ Cloud Tech Stack ☁</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Atlas-47A248?style=flat&logo=MongoDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/></a>&nbsp 
 </p>
 
 <br/>
