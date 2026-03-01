@@ -75,6 +75,7 @@ hope the work I do bring good to the world 🍀</p>
 
 <h3 align="center">Github Stats 📊</h3>
 <div align="center" style="text-align:center;">
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=InahChoi)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
   <a href="https://github.com/InahChoi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=InahChoi&hide=contribs,prs&show_icons=true&include_all_commits=true" />
@@ -84,7 +85,7 @@ hope the work I do bring good to the world 🍀</p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InahChoi&layout=compact&show_icons=true&show_owner=ture&hide=Objective%2DC,c,scss,shell,ruby,dart,swift,html,css" />
   </a> -->
   <br/><br/><br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInahChoi&count_bg=%23DEDEDE&title_bg=%231A92DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInahChoi&count_bg=%23DEDEDE&title_bg=%231A92DC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> -->
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
