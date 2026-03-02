@@ -1,4 +1,4 @@
-<header><img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=Hi,There%20👋&reversal=false&animation=fadeIn&textBg=false&fontColor=242424&fontAlign=60&fontSize=55"/></header>
+<header><img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=Hi,There%20👋&reversal=false&animation=fadeIn&textBg=false&fontColor=242424&fontAlign=59&fontSize=55"/></header>
 
 <br/>
 
