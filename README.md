@@ -1,12 +1,11 @@
-## 👋 Welcome to my Git Hub 😊👋
-### Introduce my self
-Name : 최인아(In ah Choi)
+# 👋 Welcome to my GitHub! 
 
-Email : <choiinah@kakao.com> 
+### 🚀 About Me
+- **Name:** 최인아 (In-ah Choi)
+- **Email:** choiinah@kakao.com
 
-<br>
-Are you curious about me?
 
-[Here is my resume][resume]
 
-[resume]: https://github.com/InahChoi/resume
+### 🔎 Want to learn more about my background?
+- 📄 [**View My Resume**](이력서링크)
+- 💻 **Check out my projects below!**
