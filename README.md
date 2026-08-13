@@ -8,4 +8,3 @@
 
 ### 🔎 Want to learn more about my background?
 - 📄 [**View My Resume**](https://github.com/InahChoi/resume)
-- 💻 **Check out my projects below!**
