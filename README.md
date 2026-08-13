@@ -7,5 +7,5 @@
 
 
 ### 🔎 Want to learn more about my background?
-- 📄 [**View My Resume**](이력서링크)
+- 📄 [**View My Resume**](https://github.com/InahChoi/resume)
 - 💻 **Check out my projects below!**
