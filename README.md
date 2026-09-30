@@ -7,4 +7,4 @@
 
 
 ### 🔎 Want to learn more about my background?
-- 📄 [**View My Resume**](https://github.com/InahChoi/resume)
+- 📄 [**View My Resume**](https://resume.inah.dev/)
